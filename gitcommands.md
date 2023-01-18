@@ -11,3 +11,4 @@
 ## Configuration Commands
 
 - git configure --global
+- git remote add origin token@URL
