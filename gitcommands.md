@@ -1,4 +1,4 @@
-# GIT COMMANDSisErrors
+# GIT COMMANDS
 
 ## Basic Git Commands
 
