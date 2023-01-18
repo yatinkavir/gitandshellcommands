@@ -4,12 +4,13 @@
 
 - ```git init```: initialize a git repository 
 - ```git add```: adds file to staging
-- git commit: commits file to repository
-- git status: provides status of commits
-- git log: provides information on git commits
+- ```git commit```: commits file to repository
+- ```git status```: provides status of commits
+- ```git log```: provides information on git commits
+- ```git branch```: tells which branches are present
 
 ## Configuration Commands
 
-- git configure --global
-- git remote add origin token@URL
-- git remote remove NAME_OF_REPO
+- ```git configure --global```
+- ```git remote add origin token@URL```
+- ```git remote remove NAME_OF_REPO```
